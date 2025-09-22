@@ -254,13 +254,10 @@ def bootstrap_r2(y_true, y_pred, n_bootstrap=1000):
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{qtf_druglab_2025,
-  title={Quantum Trail Fields for Molecular Property Prediction: Empirical Validation of a Physics-Inspired Featurization Approach},
-  author={[Author Name]},
-  journal={[Journal/Conference]},
-  year={2025},
-  url={https://www.academia.edu/143990818/}
-}
+\bibitem{LopezLozano2025QuantumTrail}
+A.~F. Lopez Lozano.\newblock \emph{Quantum Trail: A Geometric Reinterpretation of the Electron as a Comet in Quantum Mechanics}.
+\newblock Zenodo, 2025. Version 1. Proposal.
+\newblock DOI: \href{https://doi.org/10.5281/zenodo.17123474}{10.5281/zenodo.17123474}.
 ```
 
 ## License
@@ -270,9 +267,7 @@ This project is released under [MIT License] for academic and research purposes.
 ## Contact
 
 For questions about this research or collaboration opportunities:
-- **Research:** [Research email/contact]
-- **Technical Issues:** [Technical support contact]
-- **Collaboration:** [Collaboration contact]
+- **Research:** [Research andresfelipe211@gmail.com]
 
 ---
 
